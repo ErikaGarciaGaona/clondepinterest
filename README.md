@@ -15,7 +15,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 
 ### Vista Previa del proyecto
 
-(Pendiente)
+![Demo](/Imagen/Captura.PNG)
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta 'LICENSE' para obtener más información.
